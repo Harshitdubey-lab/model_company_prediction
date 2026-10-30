@@ -5,7 +5,6 @@ An end-to-end **Machine Learning project for Employee Attrition Prediction** usi
 The project analyzes employee-related factors and builds classification models to estimate whether an employee belongs to the **Attrition** or **No Attrition** class.
 
 > **Note:** The dataset used in this project shows very weak predictive signal. Therefore, the model results should be interpreted as a machine-learning experiment and analytical demonstration rather than a reliable real-world employee-risk prediction system.
-
 ---
 
 ## 📌 Table of Contents
